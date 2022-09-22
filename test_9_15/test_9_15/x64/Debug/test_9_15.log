@@ -1,0 +1,5 @@
+﻿  test.cpp
+E:\visual_studio_project\CPP\test_9_15\test_9_15\test.cpp(471,10): error C2668: “func2”: 对重载函数的调用不明确
+E:\visual_studio_project\CPP\test_9_15\test_9_15\test.cpp(459,6): message : 可能是“void func2(int)”
+E:\visual_studio_project\CPP\test_9_15\test_9_15\test.cpp(454,6): message : 或    “void func2(int,int)”
+E:\visual_studio_project\CPP\test_9_15\test_9_15\test.cpp(471,10): message : 尝试匹配参数列表“(int)”时
